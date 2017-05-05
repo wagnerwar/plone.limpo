@@ -6,4 +6,7 @@ setup(name='PloneClean',
       author='eU',
       author_email='www@bola.com.br',
       url='https://www.python.org/',
+      packages=find_packages('src'),
+      package_dir={'': 'src'},
+      
      )

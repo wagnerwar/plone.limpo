@@ -5,3 +5,4 @@ eggs/
 parts/
 PloneClean.egg-info/
 var/
+src/
