@@ -6,3 +6,4 @@ parts/
 PloneClean.egg-info/
 var/
 src/
+bootstrap.py
